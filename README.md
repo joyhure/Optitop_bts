@@ -68,7 +68,7 @@
 ```bash
 # Backend API
 cd backend/optitop-api
-./mvnw spring-boot:run
+.\mvnw spring-boot:run "-Dspring-boot.run.profiles=dev"
 
 # Frontend Web
 # Démarrer XAMPP puis accéder à localhost/Optitop/frontend/
