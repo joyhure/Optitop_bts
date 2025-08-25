@@ -31,5 +31,6 @@
     ],
    "java.compile.nullAnalysis.mode": "automatic",
     "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "C:/Users/joyou/Informatique/Projets/Optitop_bts/mobile/optitop_mobile/linux"
 }
